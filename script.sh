@@ -13,11 +13,11 @@ cyan='\e[96m'   #စိမ်းပြာရောင်
 none='\e[0m'    #အရောင်မရှိ
 
 #Username နှင့် Password ပြောင်းရန်
-username="iam404"
-password="iam404"
+username="F4U"
+password="𝕗➃𝓊"
 
 #SSH USER LIMIT သတ်မှတ်ရန်
-sshlimiter="300"
+sshlimiter="500"
 
 #ရက်ကန့်သက်ရန်(Qwiklab အတွက်မို့ 2-DAY ပုံသေထားရပါသည်)
 dias="2"
@@ -27,14 +27,14 @@ dias="2"
 # h6 သည် = စာလုံးအသေး ဖြစ်သည်
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
-servermessage="<h3><font color='red'>
-▬▬▬▬▬▬▬▬✿4▪0▪4✿▬▬▬▬▬▬▬▬
+servermessage="<h3><font color='magenta'>
+🍇 ⋆ 🍡  🎀  𝐹𝟦𝒰  🎀  🍡 ⋆ 🍇
 </font></h3>
 <h4><font color='cyan'>
-↤↤↤↤↤ GCP SERVER BY ④ ⍤⃝✿④ ↦↦↦↦↦
+↤↤↤↤↤ GCP SERVER BY 𝕗➃𝓊 ↦↦↦↦↦
 </font></h4>
-<h3><font color='red'>
-▬▬▬▬▬▬▬▬✿4▪0▪4✿▬▬▬▬▬▬▬▬
+<h3><font color='magenta'>
+🍇 ⋆ 🍡  🎀  𝐹𝟦𝒰  🎀  🍡 ⋆ 🍇
 </font></h3>"
 #End
 #ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
@@ -64,7 +64,7 @@ echo -e "\033[1;32m◈ Password    :⪧  \033[1;31m$password"
 echo -e "\033[1;32m◈ Login Limit :⪧  \033[1;31m$sshlimiter"
 echo -e "\033[1;32m◈ Expire Date :⪧  \033[1;31m$gui"
 echo ""
-echo -e "\033[1;37m◈────⪧ ✿ ✿ 4▪0▪4 ✿ ✿ ⪦────◈"
+echo -e "\033[1;37m◈────⪧ ✿ ✿ 𝕗➃𝓊 ✿ ✿ ⪦────◈"
 echo ""
 echo "------------------------------------"
 printf "Developed the script by \n"
