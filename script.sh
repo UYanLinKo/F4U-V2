@@ -14,7 +14,7 @@ none='\e[0m'    #အရောင်မရှိ
 
 #Username နှင့် Password ပြောင်းရန်
 username="F4U"
-password="AlZmQpF4U"
+password="QpMzF4UzMpQ"
 
 #SSH USER LIMIT သတ်မှတ်ရန်
 sshlimiter="500"
