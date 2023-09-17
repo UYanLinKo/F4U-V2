@@ -31,10 +31,7 @@ servermessage="<h6><font color='yellow'>
 ╰☆☆ıllıllııllıll 🐼𝒻➃𝐮🐼 llıllııllıllı☆☆╮
 </font></h6>
 <h3><font color='cyan'>
- ____  __  __  __ 
-( ___)/. |(  )(  )
- )__)(_  _))(__)( 
-(__)   (_)(______)
+ ✩░▒▓▆▅▃▂▁𝐅𝐑𝐄𝐄 𝐅𝐎𝐑 𝐘𝐎𝐔▁▂▃▅▆▓▒░✩
 </font></h3>
 <h6><font color='yellow'>
 ╰☆☆ıllıllııllıll 🐼𝒻➃𝐮🐼 llıllııllıllı☆☆╮
