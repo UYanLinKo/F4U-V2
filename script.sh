@@ -27,15 +27,18 @@ dias="2"
 # h6 သည် = စာလုံးအသေး ဖြစ်သည်
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
-servermessage="<h3><font color='yellow'>
+servermessage="<h6><font color='yellow'>
 ╰☆☆ıllıllııllıll 🐼𝒻➃𝐮🐼 llıllııllıllı☆☆╮
+</font></h6>
+<h3><font color='cyan'>
+ ____  __  __  __ 
+( ___)/. |(  )(  )
+ )__)(_  _))(__)( 
+(__)   (_)(______)
 </font></h3>
-<h4><font color='cyan'>
-❚█══GCP SERVER BY F4U══█❚
-</font></h4>
-<h3><font color='yellow'>
+<h6><font color='yellow'>
 ╰☆☆ıllıllııllıll 🐼𝒻➃𝐮🐼 llıllııllıllı☆☆╮
-</font></h3>"
+</font></h6>"
 #End
 #ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
 [[ $EUID -ne 0 ]] && echo -e "${red}Error: ${plain} You must use root user to run this script!\n" && exit 1
@@ -55,27 +58,28 @@ echo -e "\033[1;32m===================================="
 echo -e "\033[1;32m  💋 𝓕𝓡𝓔𝓔 𝓕𝓞𝓡 𝓨𝓞𝓤 💋 " 
 echo -e "\033[1;32m===================================="
 echo ""
-echo -e "\033[1;37m◈─────⪧ 𝐒𝐒𝐇 𝐀𝐂𝐂𝐎𝐔𝐍𝐓 ⪦─────◈"
+echo -e "\033[1;37m◈──⪧𝐒𝐒𝐇 𝐀𝐂𝐂𝐎𝐔𝐍𝐓⪦──◈"
 echo ""
-echo -e "\033[1;32m◈ Host / IP   :➷  \033[1;31m$IP"
-echo -e "\033[1;32m◈ Port        :➷  \033[1;31m22"
-echo -e "\033[1;32m◈ Username    :➷  \033[1;31m$username"
-echo -e "\033[1;32m◈ Password    :➷  \033[1;31m$password"
-echo -e "\033[1;32m◈ Login Limit :➷  \033[1;31m$sshlimiter"
-echo -e "\033[1;32m◈ Expire Date :➷  \033[1;31m$gui"
+echo -e "\033[1;32m◈ Host / IP   ➷  \033[1;31m$IP"
+echo -e "\033[1;32m◈ Port        ➷  \033[1;31m22"
+echo -e "\033[1;32m◈ Username    ➷  \033[1;31m$username"
+echo -e "\033[1;32m◈ Password    ➷  \033[1;31m$password"
+echo -e "\033[1;32m◈ Login Limit ➷  \033[1;31m$sshlimiter"
+echo -e "\033[1;32m◈ Expire Date ➷  \33[1;31m$gui"
 echo ""
-echo -e "\033[1;37m◈────⪧ Ϝ➍☋ ⪦────◈"
+echo -e "\033[1;37m◈❚█══FREE FOR YOU══█❚"
 echo ""
 echo "------------------------------------"
 printf "Developed the script by \n"
 echo "------------------------------------"
 echo ""
 
-echo -e "${yellow}╰☆☆ıllıllııllıll 🐼𝒻➃𝐮🐼 llıllııllıllı☆☆╮ ${plain}"
-echo -e "${cyan} ( ___)/. |(  )(  ) ${plain}"
-echo -e "${cyan}  )__)(_  _))(__)( ${plain}"
-echo -e "${cyan} (__)   (_)(______) ${plain}"
-echo -e "${green}Contact the developer https://t.me/BlackXtraYLK for more information              ${plain}"
-echo -e "${yellow}╰☆☆ıllıllııllıll 🐼𝒻➃𝐮🐼 llıllııllıllı☆☆╮ ${plain}"
+echo -e "${yellow}╰☆ııllıll 🐼𝒻➃𝐮🐼 llıllıı☆╮ ${plain}"
 
-echo -e "${cyan} Ϝ➍☋ ${plain}"
+echo -e "${cyan}  ( ___)/. |(  )(  ) ${plain}"
+echo -e "${cyan}   )__)(_  _))(__)( ${plain}"
+echo -e "${cyan}  (__)   (_)(______) ${plain}"
+
+echo -e "${yellow}╰☆ııllıll 🐼𝒻➃𝐮🐼 llıllıı☆╮ ${plain}"
+
+echo -e "${gray} ❚█══F4U══█❚ ${plain}"
